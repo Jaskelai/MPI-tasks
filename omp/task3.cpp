@@ -2,8 +2,6 @@
 #include <omp.h>
 #include "task3.h"
 
-using namespace std;
-
 void task3::doTask3(){
     int a = 1;
     int b = 2;

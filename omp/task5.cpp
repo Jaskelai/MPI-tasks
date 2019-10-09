@@ -3,8 +3,6 @@
 #include <ctime>
 #include "task5.h"
 
-using namespace std;
-
 int **generateMatrix(int rows, int columns) {
     int **array = new int *[rows];
     std::srand(time(NULL));
@@ -47,7 +45,7 @@ void task5::doTask5() {
                     }
                 }
             }
-            printf("Min is %d and max is %d,  thread number is %d \n" , min, max, omp_get_thread_num());
+            printf("Min is %d and max is %d,  thread number is %d \n", min, max, omp_get_thread_num());
         }
 #pragma omp section
         {

@@ -2,8 +2,6 @@
 #include <omp.h>
 #include "task2.h"
 
-using namespace std;
-
 void task2::doTask2() {
 #pragma omp parallel num_threads(8)
     {

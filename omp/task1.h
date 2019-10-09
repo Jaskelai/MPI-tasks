@@ -1,5 +1,3 @@
-#include <omp.h>
-
 #ifndef OMP_TASKS_TASK1_H
 #define OMP_TASKS_TASK1_H
 
