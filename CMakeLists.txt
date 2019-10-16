@@ -14,4 +14,4 @@ if (OPENMP_FOUND)
 endif ()
 
 # !!SET YOUR PROJECT NAME HERE (instead of OMP-tasks)!!
-add_executable(OMP-tasks omp/launcher.cpp omp/task1.cpp omp/task1.h omp/task2.cpp omp/task2.h omp/task3.cpp omp/task3.h omp/task4.cpp omp/task4.h omp/task5.cpp omp/task5.h omp/task6.cpp omp/task6.h omp/task7.cpp omp/task7.h omp/task8.cpp omp/task8.h)
+add_executable(OMP-tasks omp/launcher.cpp omp/task1.cpp omp/task1.h omp/task2.cpp omp/task2.h omp/task3.cpp omp/task3.h omp/task4.cpp omp/task4.h omp/task5.cpp omp/task5.h omp/task6.cpp omp/task6.h omp/task7.cpp omp/task7.h omp/task8.cpp omp/task8.h omp/task9.cpp omp/task9.h)

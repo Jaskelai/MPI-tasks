@@ -19,7 +19,7 @@ void task8::doTask8() {
     }
     double end = omp_get_wtime();
 
-    printf("Start: %.15g End: %.15g, Static Difference = %.15g \n", start, end, end - start);
+    printf("Start: %.40g End: %.40g, Static Difference = %.15g \n", start, end, end - start);
 
     start = omp_get_wtime();
 
@@ -32,7 +32,7 @@ void task8::doTask8() {
     }
     end = omp_get_wtime();
 
-    printf("Start: %.15g End: %.15g, Dynamic Difference = %.15g\n", start, end, end - start);
+    printf("Start: %.40g End: %.40g, Dynamic Difference = %.15g\n", start, end, end - start);
 
     //блок 1 - первый поток, блок 2 - второй поток..., размер блок уменьшается пропорционально осташимся итерациям и потокам, чтобы сбалансировать
     omp_set_num_threads(8);
@@ -43,7 +43,7 @@ void task8::doTask8() {
     }
     end = omp_get_wtime();
 
-    printf("Start: %.15g End: %.15g, Guided Difference = %.15g\n", start, end, end - start);
+    printf("Start: %.40g End: %.40g, Guided Difference = %.15g\n", start, end, end - start);
 
     //тип распределения выбирается системой, способ выбирается в рантайме по значению OMP_SCHEDULE
     omp_set_num_threads(8);
@@ -54,5 +54,5 @@ void task8::doTask8() {
     }
     end = omp_get_wtime();
 
-    printf("Start: %.15g End: %.15g, Auto Difference = %.15g\n", start, end, end - start);
+    printf("Start: %.40g End: %.40g, Auto Difference = %.15g\n", start, end, end - start);
 }
