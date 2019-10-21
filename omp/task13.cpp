@@ -26,7 +26,7 @@ void option2() {
             {
                 if (i == omp_get_thread_num()) {
 #pragma omp critical
-                    printf("Current thread is %d \n", i);
+                    printf("Current thread is %d \n", omp_get_thread_num());
                 }
             }
         }
@@ -45,6 +45,21 @@ void option3() {
     }
 }
 
+void option4() {
+    int currThreadNum = 7;
+    omp_set_num_threads(8);
+#pragma omp parallel
+    {
+        while (currThreadNum >= 0) {
+            if (omp_get_thread_num() == currThreadNum) {
+                printf("Current thread is %d \n", omp_get_thread_num());
+#pragma omp atomic
+                currThreadNum--;
+            }
+        }
+    }
+}
+
 void task13::doTask13() {
-    option3();
+    option4();
 }
