@@ -6,6 +6,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/OMP-tasks.dir/mpi/taskMPI4.cpp.obj"
   "CMakeFiles/OMP-tasks.dir/mpi/taskMPI5.cpp.obj"
   "CMakeFiles/OMP-tasks.dir/mpi/taskMPI6.cpp.obj"
+  "CMakeFiles/OMP-tasks.dir/mpi/taskMPI7.cpp.obj"
   "OMP-tasks.pdb"
   "OMP-tasks.exe"
   "OMP-tasks.exe.manifest"

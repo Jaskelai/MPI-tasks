@@ -121,6 +121,12 @@
 		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI6.h">
 			<Option target="OMP-tasks"/>
 		</Unit>
+		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI7.cpp">
+			<Option target="OMP-tasks"/>
+		</Unit>
+		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI7.h">
+			<Option target="OMP-tasks"/>
+		</Unit>
 		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

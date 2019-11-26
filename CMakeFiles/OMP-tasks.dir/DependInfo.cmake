@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI4.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/taskMPI4.cpp.obj"
   "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI5.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/taskMPI5.cpp.obj"
   "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI6.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/taskMPI6.cpp.obj"
+  "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI7.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/taskMPI7.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

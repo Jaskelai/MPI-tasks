@@ -311,6 +311,33 @@ mpi/taskMPI6.cpp.s:
 	$(MAKE) -f CMakeFiles\OMP-tasks.dir\build.make CMakeFiles/OMP-tasks.dir/mpi/taskMPI6.cpp.s
 .PHONY : mpi/taskMPI6.cpp.s
 
+mpi/taskMPI7.obj: mpi/taskMPI7.cpp.obj
+
+.PHONY : mpi/taskMPI7.obj
+
+# target to build an object file
+mpi/taskMPI7.cpp.obj:
+	$(MAKE) -f CMakeFiles\OMP-tasks.dir\build.make CMakeFiles/OMP-tasks.dir/mpi/taskMPI7.cpp.obj
+.PHONY : mpi/taskMPI7.cpp.obj
+
+mpi/taskMPI7.i: mpi/taskMPI7.cpp.i
+
+.PHONY : mpi/taskMPI7.i
+
+# target to preprocess a source file
+mpi/taskMPI7.cpp.i:
+	$(MAKE) -f CMakeFiles\OMP-tasks.dir\build.make CMakeFiles/OMP-tasks.dir/mpi/taskMPI7.cpp.i
+.PHONY : mpi/taskMPI7.cpp.i
+
+mpi/taskMPI7.s: mpi/taskMPI7.cpp.s
+
+.PHONY : mpi/taskMPI7.s
+
+# target to generate assembly for a file
+mpi/taskMPI7.cpp.s:
+	$(MAKE) -f CMakeFiles\OMP-tasks.dir\build.make CMakeFiles/OMP-tasks.dir/mpi/taskMPI7.cpp.s
+.PHONY : mpi/taskMPI7.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -341,6 +368,9 @@ help:
 	@echo ... mpi/taskMPI6.obj
 	@echo ... mpi/taskMPI6.i
 	@echo ... mpi/taskMPI6.s
+	@echo ... mpi/taskMPI7.obj
+	@echo ... mpi/taskMPI7.i
+	@echo ... mpi/taskMPI7.s
 .PHONY : help
 
 
