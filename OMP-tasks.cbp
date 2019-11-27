@@ -91,6 +91,18 @@
 		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI1.h">
 			<Option target="OMP-tasks"/>
 		</Unit>
+		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI10.cpp">
+			<Option target="OMP-tasks"/>
+		</Unit>
+		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI10.h">
+			<Option target="OMP-tasks"/>
+		</Unit>
+		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI11.cpp">
+			<Option target="OMP-tasks"/>
+		</Unit>
+		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI11.h">
+			<Option target="OMP-tasks"/>
+		</Unit>
 		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI2.cpp">
 			<Option target="OMP-tasks"/>
 		</Unit>
@@ -125,6 +137,18 @@
 			<Option target="OMP-tasks"/>
 		</Unit>
 		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI7.h">
+			<Option target="OMP-tasks"/>
+		</Unit>
+		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI8.cpp">
+			<Option target="OMP-tasks"/>
+		</Unit>
+		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI8.h">
+			<Option target="OMP-tasks"/>
+		</Unit>
+		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI9.cpp">
+			<Option target="OMP-tasks"/>
+		</Unit>
+		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI9.h">
 			<Option target="OMP-tasks"/>
 		</Unit>
 		<Unit filename="C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeLists.txt">

@@ -6,12 +6,16 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/launcherMPI.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/launcherMPI.cpp.obj"
   "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI1.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/taskMPI1.cpp.obj"
+  "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI10.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/taskMPI10.cpp.obj"
+  "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI11.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/taskMPI11.cpp.obj"
   "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI2.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/taskMPI2.cpp.obj"
   "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI3.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/taskMPI3.cpp.obj"
   "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI4.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/taskMPI4.cpp.obj"
   "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI5.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/taskMPI5.cpp.obj"
   "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI6.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/taskMPI6.cpp.obj"
   "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI7.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/taskMPI7.cpp.obj"
+  "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI8.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/taskMPI8.cpp.obj"
+  "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/mpi/taskMPI9.cpp" "C:/Users/kmb99/CLionProjects/OMP-tasks(OMP)/CMakeFiles/OMP-tasks.dir/mpi/taskMPI9.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
